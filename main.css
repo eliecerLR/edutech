@@ -1,0 +1,16 @@
+*{
+    font-family: 'Lato', sans-serif;
+}
+body{
+    background-color: #eeeeee;
+}
+.container{
+    text-align: center;
+}
+
+.logo{
+    width: 420px;
+    height: 300px;
+    padding: 5%;
+    margin-bottom: -10%;
+}
